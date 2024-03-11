@@ -1,0 +1,78 @@
+{
+  "discounted": [
+    {
+      "id": "cac2",
+      "productId": "7",
+      "productName": "asdfasdfasdf",
+      "productDescription": "asdfasdfasdf",
+      "productCategory": "Vans",
+      "productDiscount": "6",
+      "productPrice": "8"
+    },
+    {
+      "id": "4239",
+      "productId": "15",
+      "productName": "asdfas",
+      "productDescription": "dfasdfasdf",
+      "productCategory": "New Balance",
+      "productDiscount": "10",
+      "productPrice": "8"
+    },
+    {
+      "id": "c762",
+      "productId": "76",
+      "productName": "asdfasdfasdfr",
+      "productDescription": "sadfadfasdf",
+      "productCategory": "jordan",
+      "productDiscount": "12",
+      "productPrice": "13"
+    },
+    {
+      "id": "8dc2",
+      "productId": "73",
+      "productName": "asdfasdfasd",
+      "productDescription": "asdfasdf",
+      "productCategory": "Vans",
+      "productDiscount": "3",
+      "productPrice": "6"
+    }
+  ],
+  "nondiscounted": [
+    {
+      "id": "e813",
+      "productId": "9",
+      "productName": "asdfasdfasdf",
+      "productDescription": "asdfasdfasdfasdf",
+      "productCategory": "Converse",
+      "productDiscount": 0,
+      "productPrice": "10"
+    },
+    {
+      "id": "a59d",
+      "productId": "10",
+      "productName": "asdfasdfasdfasd",
+      "productDescription": "sdfasdf",
+      "productCategory": "Converse",
+      "productDiscount": 0,
+      "productPrice": "4"
+    },
+    {
+      "id": "8ce2",
+      "productId": "13",
+      "productName": "asdfasdfasdfas",
+      "productDescription": "fdsfsdsdf",
+      "productCategory": "jordan",
+      "productDiscount": 0,
+      "productPrice": "6"
+    },
+    {
+      "id": "843c",
+      "productId": "345",
+      "productName": "asdfsadf",
+      "productDescription": "sdfasdf",
+      "productCategory": "Converse",
+      "productDiscount": 0,
+      "productPrice": "234"
+    }
+  ]
+}
